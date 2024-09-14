@@ -1,4 +1,4 @@
-To-Do List
+To-Do List -> https://todo-lista-khaki.vercel.app/
 
 Descrição
 Este projeto é uma aplicação simples de lista de tarefas (To-Do List) desenvolvida com HTML, CSS e JavaScript. Ele permite adicionar e remover tarefas de uma lista. A interface é amigável e funciona bem tanto em desktop quanto em dispositivos móveis.
@@ -60,7 +60,7 @@ A construção deste software simples para meu aprendizado, só foi possível gr
 
 ******************English****************************************************************************************************************************
 
-To-Do List
+To-Do List -> https://todo-lista-khaki.vercel.app/
 
 Description
 This project is a simple To-Do List application developed with HTML, CSS, and JavaScript. It allows you to add and remove tasks from a list. The interface is user-friendly and works well on both desktop and mobile devices.
